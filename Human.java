@@ -4,7 +4,7 @@ public class Human {
 	String name;
 	String gender;
 	int age;
-	public String sleepingHours(int hours) {
+	public String sleepingHours(float hours) {
 		return "sleeping hours is "+hours;
 	}
 	public String eating(int hours) {
